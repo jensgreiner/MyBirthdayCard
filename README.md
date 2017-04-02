@@ -8,3 +8,7 @@ At the end a video with explanation why you did waht you did have been created a
 
 This is the link to the video:
 https://www.youtube.com/watch?v=o2kwmt6cchY
+
+Screenshots:
+
+<img src="https://dl.dropboxusercontent.com/s/itbtdufabd8ln2b/Screenshot_1491130649.png?dl=0" alt="MyBirthdayCard" width=200/>
