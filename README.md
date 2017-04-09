@@ -1,5 +1,8 @@
 # MyBirthdayCard App
-### Home work for Udacity Scholarship Android Beginner for Europeans
+
+Udacity EU Scholarship Android Development for Beginners
+
+### Final Project Lesson 1A+B
 
 The task was to draw your own birthday card background image. Make a photo of it. Create a project in Android Studio and add that image to it.
 Then you have to do the layout in XML as learned before in the lessons.
